@@ -1,0 +1,47 @@
+body {
+  background-color: #CA3B3B;
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 2px black;
+}
+
+.jumbotron {
+  background-color: #3E56D0;
+}
+
+a {
+  font-size: 30px;
+  color: #2B01FE;
+  font-weight: bolder;
+  text-shadow: none;
+  text-decoration: underline;
+}
+
+.minor {
+  display: none;
+}
+
+.areYouRegistered {
+  display: none;
+}
+
+.register {
+  display: none;
+}
+
+.whereToVote {
+  display: none;
+}
+
+p {
+  font-size: 25px;
+}
+
+button {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+form {
+  margin: 20px;
+}
